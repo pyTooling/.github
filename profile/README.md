@@ -4,7 +4,7 @@
 
 * [**upload-artifact**](https://github.com/pyTooling/upload-artifact)  
   File access rights preserving artifact upload.
-* [**download-artifact**](https://github.com/pyTooling/download-artifact)
+* [**download-artifact**](https://github.com/pyTooling/download-artifact)  
   File access rights preserving artifact download.
 
 [**pyTooling**](https://github.com/pyTooling/pyTooling) is a powerful collection of arbitrary useful classes, decorators, meta-classes and exceptions.  
